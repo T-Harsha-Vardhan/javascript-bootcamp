@@ -1,4 +1,11 @@
 // Variables
+//  Create a variable called studentName and store your name in it.
+//  Create a variable age and print it.
+//  Create two variables and swap their values.
+//  Create a constant variable for PI and print it.
+//  Declare a variable without assigning a value and print it.
+//  Create a variable score and increase it by 10.
+//  Create three variables for first name, last name, and full nam
 
 let studentName = "Farhan";
 let age = 19;
