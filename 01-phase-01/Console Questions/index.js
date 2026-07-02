@@ -1,3 +1,5 @@
+// Console & Basics
+
 let name = "Farhan";
 let age = 19;
 let city = "Bhopal";
